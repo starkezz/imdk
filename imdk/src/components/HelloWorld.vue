@@ -1,6 +1,6 @@
-<template>
+﻿<template>
   <div class="hello">
-    <h6>我来组成头部！aaa</h6>
+    <h6>我来组成头部！aaabbb</h6>
   </div>
 </template>
 
