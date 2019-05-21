@@ -1,0 +1,18 @@
+{
+  "presets": [
+    "es2015"
+  ],
+  "plugins": [
+    "transform-es2015-typeof-symbol",
+    [
+      "transform-runtime",
+      {
+        "helpers": false,
+        "polyfill": false,
+        "regenerator": false
+      }
+    ],
+    "transform-vue-jsx"
+  ],
+  "comments": false
+}
